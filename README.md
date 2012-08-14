@@ -1,9 +1,7 @@
-Make your tomcat running on OpenShift
+Run your Tomcat on OpenShift
 ============================
 
 This git repository helps you get up and running quickly w/ a tomcat installation on OpenShift.
-
-NOTE: admin console of tomcat is disabled in this sampel app.
 
 Create a DIY app on OpenShift
 ----------------------------
@@ -14,6 +12,8 @@ Create a DIY application
 
     rhc app create -a tomcat -t diy-0.1
 
+Get Tomcat running
+----------------------------
 Grab this quickstart codes and make it working for you!
 
     cd tomcat
