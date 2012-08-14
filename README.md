@@ -24,3 +24,5 @@ Grab this quickstart codes and make it working for you!
 That's it, you can now checkout your tomcat at:
 
     http://tomcat-$yournamespace.rhcloud.com
+
+The default managing account is tomcat/openshift
